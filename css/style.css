@@ -157,3 +157,89 @@ p.p-complexity {
 .com {
     margin-bottom: 50px;
 }
+
+.rate {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.c-rate {
+    background: #171f2b;
+}
+
+.wrap-rate {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.el-wrap-rate {
+    margin: 0px 60px 60px 50px;
+    padding: 30px;
+    background: #252E3B;
+    text-align: left;
+
+}
+
+.h1-rate {
+    color: #fefefe;
+}
+
+.h3-rate {
+    color: #9EABC0;
+    margin-top: 0;
+}
+
+.h4-rate {
+    color: #fefefe;
+}
+
+.hr-rate {
+    border-bottom:1px dashed #9EABC0;
+    height: 1px;
+    width:100%;
+}
+
+.ul-rate {
+    padding: 0;
+    margin: 0;
+}
+
+.li-rate {
+    list-style-type: none;
+    padding-bottom: 15px;
+}
+
+#i-rate {
+    color: #5ae0d2;
+    padding-right: 5px;
+}
+
+.px-16 {
+    font-size: 16px;
+}
+
+.pad-rate {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+span.h4-rate {
+    color: #9EABC0;
+}
+
+.button-rate {
+    background: #7e6ee6;
+    color: #fefefe;
+    padding: 10px 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.button-rate > p {
+    text-align: center;
+    margin: 0;
+}
+
