@@ -243,3 +243,42 @@ span.h4-rate {
     margin: 0;
 }
 
+.pad-stars {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container h3 {
+    font-size: 35px;
+    color: #171f2b;
+    text-align: center;
+}
+
+.wrap-s {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.wrap-stars {
+    margin: 30px;
+    color: #748297;
+}
+
+.img-stars {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.avatar-stars {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+
+}
+
+.avatar-stars span {
+    padding-left: 10px;
+    color: #414851;
+}
+
