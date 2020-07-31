@@ -1,1 +1,1 @@
-# cloud-storage
+# cloud-storage for KRONA
